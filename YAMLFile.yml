@@ -1,0 +1,34 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: authorizationmodule-deployment
+  labels:
+    app: AuthorizationModule
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: AuthorizationModule  
+  template:
+    metadata:
+      labels:
+        app: AuthorizationModule
+    spec:
+      containers:
+      - name: auditauthorizationcr
+        image: auditauthorizationcr.azurecr.io/auditauthorizationrepo:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: auditauthorizationsvcsecret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: authorizationmodulesvc
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: AuthorizationModule
