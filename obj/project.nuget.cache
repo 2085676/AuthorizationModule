@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vB/9ouH4tkgSw9wTlF0PlZgVe6SrObD0QRRx6I6Dqv1WvGqku8JD6drZNqh788WlpPed/4cVhAd2GVL4LqNQuQ==",
+  "dgSpecHash": "Jxjej2cAK/yTf0zA8MKDHYNTSlIPgMepp35S0KGd8hkKLaE8seIHgVP0lfJ0VZJiE3+/BjmLPzjcQDDPRkzZ9A==",
   "success": true,
   "projectFilePath": "C:\\MFPE\\MFPE Project - Audit Management\\AuthorizationModule\\AuthorizationModule\\AuthorizationModule.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,7 @@
     "C:\\Users\\2085676\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\2085676\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\microsoft.win32.registry\\4.0.0\\microsoft.win32.registry.4.0.0.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
