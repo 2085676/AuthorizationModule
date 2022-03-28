@@ -6052,20 +6052,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\2085969\\.nuget\\packages\\": {}
+    "C:\\Users\\2085676\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cognizant\\New folder\\AuthorizationModule\\AuthorizationModule.csproj",
+      "projectUniqueName": "C:\\MFPE\\MFPE Project - Audit Management\\AuthorizationModule\\AuthorizationModule\\AuthorizationModule.csproj",
       "projectName": "AuthorizationModule",
-      "projectPath": "C:\\Cognizant\\New folder\\AuthorizationModule\\AuthorizationModule.csproj",
-      "packagesPath": "C:\\Users\\2085969\\.nuget\\packages\\",
-      "outputPath": "C:\\Cognizant\\New folder\\AuthorizationModule\\obj\\",
+      "projectPath": "C:\\MFPE\\MFPE Project - Audit Management\\AuthorizationModule\\AuthorizationModule\\AuthorizationModule.csproj",
+      "packagesPath": "C:\\Users\\2085676\\.nuget\\packages\\",
+      "outputPath": "C:\\MFPE\\MFPE Project - Audit Management\\AuthorizationModule\\AuthorizationModule\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\2085969\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\2085676\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -6125,7 +6133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
