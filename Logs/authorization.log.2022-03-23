@@ -1,0 +1,4 @@
+2022-03-23 16:13:05,392  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-03-23 16:13:05,405  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2022-03-23 16:13:05,407  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Cognizant\Projects\AuthorizationModule\AuthorizationModule
+ 
